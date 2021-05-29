@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-29T12:10:55.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="SjhHh1VCEaNmwM9LRGiF" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-29T12:11:56.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="SP7-iFjOcjbKRyObU1-g" version="14.7.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="843" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
             <mxPoint x="525.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p5YalixMfBUjdx6CmczK-40" value="Accédez à la &lt;b&gt;page&lt;/b&gt; &lt;b&gt;d&#39;accueil&lt;/b&gt; et enregistrez l&#39;identifiant de l&#39;utilisateur dans le &lt;b&gt;cookie&lt;/b&gt; du navigateur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="p5YalixMfBUjdx6CmczK-40" value="Accédez à la &lt;b&gt;page&lt;/b&gt; &lt;b&gt;d&#39;accueil&lt;/b&gt; et enregistrez l&#39;identifiant de l&#39;utilisateur dans le &lt;b&gt;cookie&lt;/b&gt; du navigateur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="425.5" y="320" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p5YalixMfBUjdx6CmczK-41" value="Non" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="p5YalixMfBUjdx6CmczK-42" edge="1">
